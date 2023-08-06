@@ -1,0 +1,5 @@
+node_modules
+_design
+_memo
+#Electron-builder output
+/dist_electron

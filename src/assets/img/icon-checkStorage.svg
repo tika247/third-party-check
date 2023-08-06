@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="18" viewBox="0 0 16 18">
+  <g id="icon-checkStorage" transform="translate(-717 -290)">
+    <g id="パス_2" data-name="パス 2" transform="translate(717 290)">
+      <path id="パス_12" data-name="パス 12" d="M14.923,17.5H1.077A.556.556,0,0,1,.5,16.969V1.031A.556.556,0,0,1,1.077.5H14.923a.556.556,0,0,1,.577.531V16.969A.556.556,0,0,1,14.923,17.5Z" fill="#fff"/>
+      <path id="パス_13" data-name="パス 13" d="M1.143,1.059V16.941H14.857V1.059H1.143M1.143,0H14.857A1.1,1.1,0,0,1,16,1.059V16.941A1.1,1.1,0,0,1,14.857,18H1.143A1.1,1.1,0,0,1,0,16.941V1.059A1.1,1.1,0,0,1,1.143,0Z" fill="#707070"/>
+    </g>
+    <path id="パス_1" data-name="パス 1" d="M719.953,299.508l2.51,3.242,4.811-4.916" transform="translate(1.595 -1.339)" fill="none" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
